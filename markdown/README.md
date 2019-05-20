@@ -46,4 +46,4 @@ Wer des englischen mächtig ist kann sich auch das Youtube Video von Nicholas Ci
 
 Wichtig sind auch immer Cheat Sheets: Wie dieses [Hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  oder das [Hier](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).  
   
-Oder baut euch euer eignes Cheat Sheets. Viel spaß dabei :).
+Oder baut euch euer eignes Cheat Sheets. Viel spaß dabei :). Und falls ihr noch anderen Informationen habt, dann teilt sie gern mit uns!
