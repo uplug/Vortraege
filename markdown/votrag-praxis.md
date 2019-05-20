@@ -101,9 +101,3 @@ Dies ist ein `Inline`
 | Richard    | 23         | Arch   |
 | Sebastian  | 30         | Debian |
 
-<!-- Fußnote -->
-
-Text mit Fußnote[^Beispiel]
-
-[Beispiel]: www.uplug.de
-
