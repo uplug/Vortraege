@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Einleitung}{2}{0}{1}
+\beamer@sectionintoc {2}{Git - die Geschichte}{8}{0}{2}
+\beamer@sectionintoc {3}{Praktisches}{12}{0}{3}
+\beamer@sectionintoc {4}{Visualisierung}{19}{0}{4}
